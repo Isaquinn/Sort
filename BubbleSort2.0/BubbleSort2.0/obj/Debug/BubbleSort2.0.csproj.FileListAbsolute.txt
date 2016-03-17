@@ -1,0 +1,9 @@
+C:\Users\isaque.araujo\Desktop\BubbleSort2.0\BubbleSort2.0\bin\Debug\BubbleSort2.0.exe.config
+C:\Users\isaque.araujo\Desktop\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2.0.csprojResolveAssemblyReference.cache
+C:\Users\isaque.araujo\Desktop\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2._0.Form1.resources
+C:\Users\isaque.araujo\Desktop\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2._0.Properties.Resources.resources
+C:\Users\isaque.araujo\Desktop\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2.0.csproj.GenerateResource.Cache
+C:\Users\isaque.araujo\Desktop\BubbleSort2.0\BubbleSort2.0\bin\Debug\BubbleSort2.0.exe
+C:\Users\isaque.araujo\Desktop\BubbleSort2.0\BubbleSort2.0\bin\Debug\BubbleSort2.0.pdb
+C:\Users\isaque.araujo\Desktop\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2.0.exe
+C:\Users\isaque.araujo\Desktop\BubbleSort2.0\BubbleSort2.0\obj\Debug\BubbleSort2.0.pdb
